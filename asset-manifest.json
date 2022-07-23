@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/covalent_try/static/css/main.f5f080b3.chunk.css",
-    "main.js": "/covalent_try/static/js/main.cc26f164.chunk.js",
-    "main.js.map": "/covalent_try/static/js/main.cc26f164.chunk.js.map",
+    "main.js": "/covalent_try/static/js/main.b4400aec.chunk.js",
+    "main.js.map": "/covalent_try/static/js/main.b4400aec.chunk.js.map",
     "runtime-main.js": "/covalent_try/static/js/runtime-main.c7bfbf9f.js",
     "runtime-main.js.map": "/covalent_try/static/js/runtime-main.c7bfbf9f.js.map",
     "static/js/2.0dda115b.chunk.js": "/covalent_try/static/js/2.0dda115b.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.c7bfbf9f.js",
     "static/js/2.0dda115b.chunk.js",
     "static/css/main.f5f080b3.chunk.css",
-    "static/js/main.cc26f164.chunk.js"
+    "static/js/main.b4400aec.chunk.js"
   ]
 }
